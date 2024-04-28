@@ -1,0 +1,202 @@
+[
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "13:29:10",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "13:29:23",
+        "status_kehadiran": "Sakit",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "13:30:42",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "13:31:10",
+        "status_kehadiran": "Izin",
+        "alasan_kehadiran": "malas"
+    },
+    {
+        "nama": "Gilang Ramadhan",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "14:13:45",
+        "status_kehadiran": "Izin",
+        "alasan_kehadiran": "1"
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:15:13",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Gilang Ramadhan",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:15:48",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "14:15:54",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:28:56",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "14:32:08",
+        "status_kehadiran": "Izin",
+        "alasan_kehadiran": "10"
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:32:36",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:35:45",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "",
+        "tanggal": "",
+        "jam": "14:40:04",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "syafira",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "14:40:08",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": null,
+        "tanggal": "",
+        "jam": "14:43:50",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": null,
+        "tanggal": "",
+        "jam": "14:44:02",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "12",
+        "tanggal": "",
+        "jam": "14:46:56",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:22:26",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "12",
+        "tanggal": "",
+        "jam": "15:28:34",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:36:40",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:37:45",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Muhamad Dafa Fairuz",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:44:47",
+        "status_kehadiran": "Hadir",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:45:03",
+        "status_kehadiran": null,
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "syafira",
+        "kelas": "10",
+        "tanggal": "2024-04-26",
+        "jam": "15:45:18",
+        "status_kehadiran": "Izin",
+        "alasan_kehadiran": ""
+    },
+    {
+        "nama": "Syafira Rudhaul",
+        "kelas": "10",
+        "tanggal": "",
+        "jam": "15:45:43",
+        "status_kehadiran": "Sakit",
+        "alasan_kehadiran": ""
+    }
+]
